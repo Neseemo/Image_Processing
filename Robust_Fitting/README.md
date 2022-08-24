@@ -14,5 +14,5 @@ Functions:
 6. fit_circle_dlt: finds the parameters of the circumference that minimizes the distance between the points and the circumference (dlt)
 7. fit_circle_ols: finds the parameters of the circumference through solving the over determined system through ols
 8. plot_circle: plots a circle given its parameters
-9. polar_coord: convert cartesian coord to polar coord
-10. res_line: compute the residual of a group of points with respect to a line
+9. polar_coord: converts cartesian coord to polar coord
+10. res_line: computes the residual of a group of points with respect to a line
