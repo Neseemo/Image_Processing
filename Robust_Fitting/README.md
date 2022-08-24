@@ -6,7 +6,7 @@
 *   You can run the code on different set of points and number of outliers in order to check the robustness.
 
 Functions:
- Markup : 1. addOutliersInBB:  adds the desired number of outliers
+          1. addOutliersInBB:  adds the desired number of outliers
           2. display_band: plots the fitted linear model with the desired bandwidth
           3. display_clust: plots points highlighting the cluster they belong to (useful for multi model fitting to distinguish different models)
           4. fit_line_dlt: finds the parameters of the straight line that minimizes the distance between the points and the line (dlt)
