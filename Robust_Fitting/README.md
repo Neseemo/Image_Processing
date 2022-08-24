@@ -1,7 +1,7 @@
 # Robust Fitting
-*   In this section is implemented RANSAC and some of its variants (Msac and Lmeds). This algorithms will be used to fit different models of the same "kind" (Multi-Model fitting)
+*   In this section is implemented RANSAC and some of its variants (Msac and Lmeds). This algorithms will be used to fit different models of the same "kind" (Multi-Model fitting). Use test_variants and test_variants_script to test them.
 
-*   The file demo_robustmmf_script.m contains the main script while demo_robustmmf.mlx contains the same file as a live editor.
+*   The file demo_robustmmf_script.m contains the main script while demo_robustmmf.mlx contains the same file as a live editor. This code implements only squential ransac (no variants)
 
 *   You can run the code on different set of points and number of outliers in order to check the robustness.
 
