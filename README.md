@@ -1,2 +1,3 @@
 # Image_Processing
-Material of the course "Mathematical Models and methods for image processing"
+
+* This folder contains some of the projects and main topics studied during the course "Mathematical Models and methods for image processing"
